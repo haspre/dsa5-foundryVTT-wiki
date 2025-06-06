@@ -30,7 +30,7 @@ To be able to use all functions comfortably and quickly and thus have the best e
 
 *Translation information*  
 *[x] updated: 2021-06-03*  
-*[x] german entry [linked](de/de-Home)*  
+*[x] german entry [linked](de-Home)*  
 *[x] automatic translation*  
 *[x] proof read*  
 *[x] change pictures with EN version*  
